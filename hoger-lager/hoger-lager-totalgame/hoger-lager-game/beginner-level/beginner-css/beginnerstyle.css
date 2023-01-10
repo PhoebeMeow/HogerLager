@@ -1,0 +1,102 @@
+
+header {
+    text-align:center;
+    font-size: 25pt;
+    background-color: rgb(227, 180, 241);
+}
+
+body {
+    background-color: rgb(175, 174, 174);
+}
+
+main {
+    height: 90px;
+    text-align: center;
+    background-color: rgb(227, 180, 241);
+}
+
+main p {
+    display:inline-block;
+    line-height: 10px;
+    width: 275px;
+    height: 30px;
+    font-size: 25px;
+}
+
+.user-name {
+    display:inline-block;
+    line-height: 90px;
+    width: 275px;
+    height: 30px;
+    font-size: 25px;
+}
+
+#wrapper {
+    margin: auto;
+    text-align: center;
+}
+
+.player-number {
+    margin-left: 30%;
+    font-size: 30px;
+    line-height: 8px;
+}
+
+.computer-number{
+    margin-right: 30%;
+    font-size: 30px;
+    line-height: 20px;
+}
+
+.win-lose-results{
+    font-size: 25px;
+    line-height: 3px;
+}
+
+h5 {
+    font-size: 23px;
+    font-weight: normal;
+    margin-right: 30%;
+    line-height: 1px;
+}
+
+h4 {
+    font-size: 23px;
+    font-weight: normal;
+    margin-left: 30%;
+    line-height: 55px;
+}
+
+.player-points {
+    font-size: 23px;
+    margin-left: 30%;
+    line-height: 1px;
+}
+
+.computer-points {
+    margin-right: 30%;
+    font-size: 23px;
+}
+
+.btn-higher {
+    font-size: 20px;
+}
+
+.btn-lower {
+    font-size: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    margin-right: 50%;
+    line-height: 40px;
+    width: 100px;
+    color: black;
+    font-size: 25px;
+    background-color: rgb(170, 222, 240);
+    display: inline-block;
+}
+
+nav a:hover {
+    background-color:rgb(253, 253, 253);
+}
